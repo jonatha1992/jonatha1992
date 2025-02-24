@@ -5,6 +5,7 @@
 <h1 align="center">I'm <a href="https://github.com/jonatha1992">Jonathan Correa<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
+
 - 👨‍💻 I'm a Full Stack Developer with over 5 years of experience
 - 🎓 Graduated as a Programmer Analyst
 - 🏫 Currently in 4th year of Computer Engineering
